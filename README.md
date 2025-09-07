@@ -50,13 +50,6 @@ Mountain Bike Store – December Sales Performance
 
 ---
 
-## 🌐 Live Dashboards
-You can explore the interactive dashboards here:  
-- 👉 [Sales Dashboard](https://app.powerbi.com/view?r=YOUR_SALES_LINK)  
-- 👉 [Customer Dashboard](https://app.powerbi.com/view?r=YOUR_CUSTOMER_LINK)  
-
----
-
 ## ⚙️ Tools & Skills Used
 - **Power BI Desktop** → Data modeling, DAX, interactive visuals.  
 - **Power Query** → Data cleaning and transformation.  
