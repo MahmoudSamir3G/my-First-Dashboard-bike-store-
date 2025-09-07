@@ -21,14 +21,15 @@ Additionally, the project demonstrates **data cleaning in Power Query** before b
 
 ### 🧹 Data Cleaning (Power Query)
 Before building the dashboards, the raw data was cleaned and transformed in **Power Query**.  
-![Data Cleaning Screenshot](./Screenshots/cleaning.png)
+![Sales Dashboard](https://github.com/MahmoudSamir3G/my-First-Dashboard-bike-store-/blob/4fc698b6ffd0964bc5e9257bee07524860dfd537/screen%20shot/Cleaning.png)
+
 
 ---
 
 ### 1️⃣ Sales Performance Dashboard
 Mountain Bike Store – December Sales Performance  
 
-![Sales Dashboard](./Screenshots/sales_dashboard.png)
+![Sales Dashboard](https://github.com/MahmoudSamir3G/my-First-Dashboard-bike-store-/blob/4fc698b6ffd0964bc5e9257bee07524860dfd537/screen%20shot/Finansal%20Dashboard.png)
 
 **Key Insights:**
 - 💰 Total Profit: **165K**  
@@ -40,7 +41,7 @@ Mountain Bike Store – December Sales Performance
 ---
 
 ### 2️⃣ Customer Analysis Dashboard
-*(Add screenshot here → `./Screenshots/customer_dashboard.png`)*  
+![Sales Dashboard](https://github.com/MahmoudSamir3G/my-First-Dashboard-bike-store-/blob/4fc698b6ffd0964bc5e9257bee07524860dfd537/screen%20shot/Customer%20Dashboard.png)
 
 **Key Insights (example):**
 - 👥 Top customer segment by sales.  
