@@ -1,4 +1,4 @@
-# 📊 Power BI Dashboards Portfolio
+# 📊 Power BI Dashboards
 
 ## 📝 Overview
 This repository contains two interactive **Power BI dashboards** showcasing different business insights:  
